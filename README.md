@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Ryoko (she/her/hers) and I am a hydrologist! 
+The research questions I am tackling are
+- How does soil moisture controls hydrological and land-atmosphere processes at multiple spatio-temporal scales?
+- How to represent the processes in modeling?
+- How to leverage the research outcomes for flood and drought management under climate and land-use changes?
+
+Visit http://labusers.net/~raraki/ for more details! 
 
 <!--
 **RY4GIT/RY4GIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
