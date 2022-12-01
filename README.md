@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ryoko (she/her/hers) and I am a hydrologist! 
+My name is Ryoko (she/her/hers) and I am a hydrologist!  
 The research questions I am tackling are
 - How does soil moisture controls hydrological and land-atmosphere processes at multiple spatio-temporal scales?
 - How to represent the processes in modeling?
