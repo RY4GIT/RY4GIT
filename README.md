@@ -5,7 +5,7 @@ The research questions I am tackling are
 - 💭🖥️ How to represent the processes in modeling?
 - 🌊🤝 How to leverage the research outcomes for flood and drought management under climate and land-use changes?
 
-Visit [my website](http://labusers.net/~raraki/) for more details! 
+Visit [my website](http://rarakihydro.com) for more details! 
 
 <!--
 **RY4GIT/RY4GIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
